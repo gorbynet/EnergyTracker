@@ -1,2 +1,4 @@
 Utils/__init__.py
 *.cpython-311.pyc
+*.json
+*.csv
