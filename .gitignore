@@ -1,4 +1,5 @@
-Utils/__init__.py
+Config/__init__.py
 *.cpython-311.pyc
 *.json
 *.csv
+initial_workings.ipynb
